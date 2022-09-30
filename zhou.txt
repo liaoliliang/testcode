@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 zhouzhouzhouzhou login
 =======
 login
 >>>>>>> login
+=======
+reg
+>>>>>>> reg
